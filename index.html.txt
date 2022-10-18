@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Introduction</title>
+</head>
+<body>
+    <h1>My Personal Information</h1>
+    <p>My Name is Min Han Myo Htut.I am currently living in yangon.My hobby is talking with people.What I'm doing now is professional Life insurance, Digital Marketing.My ambition in life is to become a professional <b>Digital Marketer</b>
+    So I studied digital things.<br>I'm now studying the web design I need to use for the work.</p>
+
+    <pre><b>it's also intended to study and use it   carefully.</b></pre>
+    <br>
+
+    <span>My current job descriptions is,</span>
+
+    <ul>
+        <li>Advance Facebook Marketing
+        </li>
+        <li>Creating auto response to customer about the product and service using Many chat Bot.
+        </li>
+        <li>Video Marketing
+        </li>
+        <li>Creating sales funnel for Financial products.
+        </li>
+        <li>Creating an online store for physical and non-physical products.
+            Content writing.
+            </li>
+            <li>Digital Sales Project Management
+            </li>
+            <li>Diverting Leads to sales people
+            </li>
+            <li>Digital Marketing Reports
+            </li>
+    </ul>
+    <hr>
+<span>The arts I've learned now!</span>
+
+<ol>
+    <li>Web Design</li>
+    <li>English Language</li>
+</ol>
+<hr>
+
+
+
+    
+</body>
+</html>
